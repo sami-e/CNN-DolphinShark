@@ -12,6 +12,9 @@ The dataset used is composed of:
 
 To have more details, please check **cnn.ipynb**.
 
+## Parameters
+![parameters](parameters.png)
+
 ## Architecture
 ![cnn_structure](cnn_structure.png)
 
