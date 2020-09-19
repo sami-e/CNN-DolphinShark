@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is an image classifier using Convolutional Neural Network (CNN). The **Model.hdf5** file is able to classify dolphins and sharks images with **80% of accuracy**.  
+This project is an image classifier using Convolutional Neural Network (CNN). The **Model.hdf5** file is able to classify dolphins and sharks images with **80% of accuracy**. It was done in educational settings.  
   
 The dataset used is composed of:
 - training: 6500 dolphin images / 6500 shark images
